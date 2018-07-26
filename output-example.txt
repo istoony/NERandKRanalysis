@@ -1,0 +1,11 @@
+http://en.wikipedia.org/wiki/Puise; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/Village
+http://en.wikipedia.org/wiki/Tallinn; http://api.conceptnet.io/c/en/in; http://en.wikipedia.org/wiki/Estonia
+http://en.wikipedia.org/wiki/Milano; http://api.conceptnet.io/c/en/in; http://en.wikipedia.org/wiki/Italy
+http://en.wikipedia.org/wiki/Italy; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/Country
+http://en.wikipedia.org/wiki/Milano; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/City
+http://en.wikipedia.org/wiki/Tallinn; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/City
+http://en.wikipedia.org/wiki/Estonia; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/Country
+http://en.wikipedia.org/wiki/Italy; http://api.conceptnet.io/c/en/in; http://en.wikipedia.org/wiki/Europe
+http://en.wikipedia.org/wiki/Estonia; http://api.conceptnet.io/c/en/in; http://en.wikipedia.org/wiki/Europe
+http://en.wikipedia.org/wiki/Europe; http://api.conceptnet.io/c/en/is; http://en.wikipedia.org/wiki/Continent
+http://en.wikipedia.org/wiki/Rome; http://api.conceptnet.io/c/en/bigger; http://en.wikipedia.org/wiki/Tartu
